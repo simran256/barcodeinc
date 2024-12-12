@@ -1,0 +1,96 @@
+@font-face {
+    font-family: "flaticon_agency";
+    src: url("../fonts/flaticon_agencyf238.ttf?0b4b906711066992faaaeb7db5908ac2") format("truetype"),
+    url("../fonts/flaticon_agencyf238.woff?0b4b906711066992faaaeb7db5908ac2") format("woff"),
+    url("../fonts/flaticon_agencyf238.woff2?0b4b906711066992faaaeb7db5908ac2") format("woff2"),
+    url("../fonts/flaticon_agencyf238.eot?0b4b906711066992faaaeb7db5908ac2#iefix") format("embedded-opentype"),
+    url("../fonts/flaticon_agencyf238.svg?0b4b906711066992faaaeb7db5908ac2#flaticon_agency") format("svg");
+}
+
+i[class^="flaticon-agency-"]:before, 
+i[class*=" flaticon-agency-"]:before {
+    font-family: flaticon_agency !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-agency-web-development:before {
+    content: "\f101";
+}
+.flaticon-agency-design:before {
+    content: "\f102";
+}
+.flaticon-agency-megaphone:before {
+    content: "\f103";
+}
+.flaticon-agency-targeted-marketing:before {
+    content: "\f104";
+}
+.flaticon-agency-diplomat:before {
+    content: "\f105";
+}
+.flaticon-agency-teaching:before {
+    content: "\f106";
+}
+.flaticon-agency-laptop:before {
+    content: "\f107";
+}
+.flaticon-agency-health-check:before {
+    content: "\f108";
+}
+.flaticon-agency-bank:before {
+    content: "\f109";
+}
+.flaticon-agency-success:before {
+    content: "\f10a";
+}
+.flaticon-agency-recommend:before {
+    content: "\f10b";
+}
+.flaticon-agency-marketing:before {
+    content: "\f10c";
+}
+.flaticon-agency-job-promotion:before {
+    content: "\f10d";
+}
+.flaticon-agency-completed-task:before {
+    content: "\f10e";
+}
+.flaticon-agency-settings:before {
+    content: "\f10f";
+}
+.flaticon-agency-rating:before {
+    content: "\f110";
+}
+.flaticon-agency-group:before {
+    content: "\f111";
+}
+.flaticon-agency-learning:before {
+    content: "\f112";
+}
+.flaticon-agency-cloud:before {
+    content: "\f113";
+}
+.flaticon-agency-digital-services:before {
+    content: "\f114";
+}
+.flaticon-agency-graphic-design:before {
+    content: "\f115";
+}
+.flaticon-agency-technology:before {
+    content: "\f116";
+}
+.flaticon-agency-phone-call:before {
+    content: "\f117";
+}
+.flaticon-agency-visitor:before {
+    content: "\f118";
+}
+.flaticon-agency-promotion:before {
+    content: "\f119";
+}

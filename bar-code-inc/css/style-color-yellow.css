@@ -1,0 +1,92 @@
+:root {
+  --theme-color1-rgb: 255, 170, 23;
+  --theme-color2-rgb: 15, 15, 15;
+  --theme-color3-rgb: 36, 32, 31;
+  --theme-color1: #ffaa17;
+  --theme-color2: #0f0f0f;
+  --theme-color3: #24201f;
+  --text-color-bg-theme-color1: #000;
+  --text-color-bg-theme-color2: #fff;
+  --text-color-bg-theme-color3: #fff;
+}
+
+.icon-quote {
+  background-image: url(../images/icons/icon-quote-yellow.html);
+}
+
+.banner-section:before {
+  background-image: url(../images/main-slider/shape-1-yellow.html);
+}
+
+.banner-section-two:before {
+  background-image: url(../images/main-slider/s3-shape-1-yellow.html);
+}
+
+.banner-section-five:before {
+  background-image: url(../images/main-slider/s2-shape-3-yellow.html);
+}
+
+.about-section .image-column .inner-column:before {
+  background-image: url(../images/icons/pattern-25-yellow.html);
+}
+
+.about-section-three:before {
+  background-image: url(../images/icons/arrow-top-yellow.html);
+}
+.about-section-three:after {
+  background-image: url(../images/icons/arrow-bottom-yellow.html);
+}
+
+.about-section-four:before {
+  background-image: url(../images/icons/shape-tm-6-red.html);
+}
+
+.about-section-ten:before {
+  background-image: url(../images/icons/shape-tm-16-yellow.html);
+}
+.about-section-ten:after {
+  background-image: url(../images/icons/shape-tm-17-yellow.html);
+}
+
+.about-section-seven .image-column .image-box .image:before {
+  background-image: url(../images/icons/shape-tm-20-yellow.html);
+}
+
+.contact-form.light:before {
+  background-image: url(../images/icons/shape-tm-7-yellow.html);
+}
+
+.contact-section-three.style-three:before {
+  background-image: url(../images/icons/shape-tm-18-yellow.html);
+}
+.contact-section-three.style-three:after {
+  background-image: url(../images/icons/shape-tm-19-yellow.html);
+}
+
+.features-section-two:before {
+  background-image: url(../images/icons/bg-shape-tm-1-yellow.html);
+}
+
+.feature-block-two .inner-box:after {
+  background-image: url(../images/icons/shape-tm-1-yellow.html);
+}
+
+.features-section-seven:before {
+  background-image: url(../images/icons/shape-tm-9-yellow.html);
+}
+
+.pricing-block-two .inner-box {
+  background-image: url(../images/icons/shape-tm-13-yellow.html);
+}
+
+.services-section-six:before {
+  background-image: url(../images/icons/bg-shape-tm-2-yellow.html);
+}
+
+.team-section:before {
+  background-image: url(../images/icons/shape-tm-11-yellow.html);
+}
+
+.testimonial-section:before {
+  background-image: url(../images/icons/pattern-tm-1-yellow.html);
+}
